@@ -72,7 +72,7 @@ Y
 
 Interesting profile:
 Bob
-
+       
 Remote-work service:
 SSH
 
