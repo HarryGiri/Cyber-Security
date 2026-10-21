@@ -135,7 +135,7 @@ nc -lvnp 4444
 
 ```text
 Client-server protocol:
-Y
+Y      
 
 Replacement:
 SSH
