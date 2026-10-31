@@ -180,7 +180,7 @@ document. Visible flag values have been redacted before including it in
 this write-up.
 
 ![W1seGuy CyberChef and terminal evidence with flag values
-redacted](images/w1seguy-evidence-redacted.png)
+redacted](images/w1seguy.png) 
 
 ## 7. Results
 
